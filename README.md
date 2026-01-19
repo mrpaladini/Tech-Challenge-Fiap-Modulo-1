@@ -3,6 +3,10 @@
 
 Este repositório contém o projeto do Tech Challenge da Fase 1 da Pós-Tech FIAP (Machine Learning Engineering). O objetivo é desenvolver uma API pública para consulta de livros, incluindo um pipeline de ingestão de dados (web scraping) e preparação para modelos de Machine Learning.
 
+## Link do Video da apresentação
+
+Apresentação **: [http://www.youtube.com/mpaladini/](http://www.youtube.com/mpaladini)
+
 ## Descrição do Projeto
 
 O projeto consiste em uma aplicação completa que realiza:
@@ -15,6 +19,12 @@ O projeto consiste em uma aplicação completa que realiza:
 
 O fluxo de dados segue a arquitetura:
 **Ingestão/Scraping** → **Processamento/Armazenamento (CSV)** → **API (FastAPI)** → **Consumo (Cliente/ML)**
+
+**Diagrama Macro**
+
+![Diagrama Macro](Scrap-Macro-Diagram.drawio.svg)
+
+**Diagrama Arquitetura**
 
 ![Diagrama da Arquitetura](diagrama.svg)
 
