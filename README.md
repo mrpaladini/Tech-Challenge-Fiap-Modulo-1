@@ -5,7 +5,7 @@ Este repositório contém o projeto do Tech Challenge da Fase 1 da Pós-Tech FIA
 
 ## Link do Video da apresentação
 
-Apresentação **: [http://www.youtube.com/mpaladini/](http://www.youtube.com/mpaladini)
+Apresentação **: [http://www.youtube.com/(http://www.youtube.com)
 
 ## Descrição do Projeto
 
